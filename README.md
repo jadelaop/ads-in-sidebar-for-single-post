@@ -11,8 +11,14 @@ Automatic integration with themes.
 You can add a widget in post sidebar, and edit ads that will display in this widget for each post.
 
 
-== Installation ==
-1. Upload the ads-in-sidebar-for-single-post directory to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Drag Ads for Post widget to your Sidebar and set title if you want.
-4. Add advertising code to Ads for Post box in single post edit page.
+== Installation and config ==
+
+1. Download zip file in zip folder.
+
+2. Upload zip file in plugins admin interface or Wordpress.
+
+3. Activate the plugin through the 'Plugins' menu in WordPress
+
+4. Drag Ads for Post widget to your Sidebar and set title if you want in Widgets configuration.
+
+5. Add advertising code to Ads for Post box in single post edit page.
